@@ -142,7 +142,9 @@ a h6 {
 .carousel-indicators li {
   background-color: rgba(0, 0, 0, 0.5);
 }
-
+.carousel-item img {
+  width: 100%;
+}
 .carousel-indicators .active {
   background-color: #000;
 }
