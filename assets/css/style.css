@@ -93,7 +93,7 @@ a h3,
 a h4,
 a h5,
 a h6 {
-  font-weight: 700;
+  font-weight: 500;
 }
 
 
@@ -101,7 +101,7 @@ a h6 {
 
 .service-section {
   font-family: "Roboto", sans-serif;
-  font-weight: 300;
+  font-weight: 200;
   line-height: 1.5;
 }
 .service_list li {
