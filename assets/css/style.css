@@ -216,7 +216,7 @@ a h6 {
   font-size: 20px;
 }
 .social-icons a.facebook {
-  background-color: #3b5998;
+  background-color: #00875d;
 }
 .social-icons a.twitter {
   background-color: #1da1f2;
@@ -3016,7 +3016,7 @@ select {
   color: #e94c89;
 }
 .about-section.style-1 .section-wrapper .about-item .about-content ul li .info p a:nth-child(4) {
-  color: #3b5998;
+  color: #00875d;
 }
 .about-section.style-1 .section-wrapper .about-item .about-content ul li .info p a:nth-child(5) {
   color: #0084ff;
@@ -3098,7 +3098,7 @@ select {
   color: #e94c89;
 }
 .about-section.style-2 .section-wrapper .about-item .about-content ul li .info p a:nth-child(4) {
-  color: #3b5998;
+  color: #00875d;
 }
 .about-section.style-2 .section-wrapper .about-item .about-content ul li .info p a:nth-child(5) {
   color: #0084ff;
@@ -4237,7 +4237,7 @@ select {
 }
 
 .facebook {
-  background: #3b5998;
+  background: #00875d;
 }
 
 .behance {
@@ -4253,7 +4253,7 @@ select {
 }
 
 .vimeo {
-  background: #3b5998;
+  background: #00875d;
 }
 
 .dribble {
@@ -4908,5 +4908,10 @@ select {
 .footer-section.style-1 .footer-bottom span a:first-child {
   color: #0071ef;
 }
-
+.sponsor-carousel img {
+  
+  width: auto;
+  display: block;
+  margin: auto;
+}
 /*# sourceMappingURL=style.css.map */
