@@ -242,7 +242,7 @@ a h6 {
 
 
 .blog-section .post-item-inner .blog-footer .blog-comment, .timeline .class-schedule-main .class-schedule-all .each-day h5, .timeline .class-schedule-top .schedule-course a::after, .timeline .class-schedule-top .schedule-course, .main-content .post-content ul li .surgary-price::before, .main-content .post-content ul li .surgary-title::before, .single-sidebar .shop-widget .widget-wrapper .shop-menu li .shop-submenu li a, .single-sidebar .cetagory-widget .widget-wrapper ul li a::after, .single-sidebar .department-widget .widget-wrapper ul li a::after, .banner-section .banner-wrapper .banner-content h1, .banner-section .banner-wrapper .banner-content h2, .page-header-section.style-1 .page-header-content .page-header-content-inner .breadcrumb li.active, .nav-widget .nav-search input ::-ms-input-placeholder, .nav-widget .nav-search input :-ms-input-placeholder, .nav-widget .nav-search input::placeholder, .pagination-area .pagination li.next a, .pagination-area .pagination li.prev a {
-  font-weight: 900;
+  font-weight: 700;
 }
 
 .widget.widget-tags ul.widget-wrapper, .paginations ul li a, .newsletter-section.style-1 .section-wrapper, .main-content .post-content .doctor-list .post-item .post-item-inner, .single-sidebar .gellary-widget .widget-wrapper ul, .counter-section.style-1 .section-wrapper .counter-item .counter-item-inner, .department-section.style-2 .section-wrapper, .department-section.style-1 .section-content .department-top .dep-tab, .main-menu {
@@ -406,7 +406,7 @@ textarea {
 
 .shop-page .shop-product-wrap .product-item .product-content p,
 .shop-page .shop-product-wrap .product-list-item .product-content p, .shop-page .shop-product-wrap .product-item .product-content h5,
-.shop-page .shop-product-wrap .product-list-item .product-content h5, .about-section.style-2 .section-wrapper .about-item .section-heading h4, .banner-section .banner-wrapper .banner-content a, .doctor-item.style-1 .doctor-inner .doctor-content .doctor-name p {
+.shop-page .shop-product-wrap .product-list-item .product-content h5, .about-section.style-2 .section-wrapper .about-item .section-heading h4, .doctor-item.style-1 .doctor-inner .doctor-content .doctor-name p {
   margin-bottom: 5px;
 }
 
@@ -4914,4 +4914,19 @@ select {
   display: block;
   margin: auto;
 }
+.cta-section {
+padding-top: 5px;
+background: #f7f7f7;
+}
+.btn-warning {
+  color: #fff;
+  background-color: #f0ad4e;
+  border-color: #eea236;
+}
+.btn-danger {
+  color: #fff;
+  background-color: #d9534f;
+  border-color: #d43f3a;
+}
+
 /*# sourceMappingURL=style.css.map */
