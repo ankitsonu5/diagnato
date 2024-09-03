@@ -6669,3 +6669,10 @@ select {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.service-info h3{
+  color:red !important;
+}
+.contact-info h3{
+  color:red !important;
+}
